@@ -18,4 +18,4 @@ export default function Home() {
   )
 }
 
-// NEXTAUTH_URL=http://localhost:3000
+// NEXTAUTH_URL=https://instagram-clone-pink.vercel.app/
