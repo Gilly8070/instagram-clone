@@ -17,3 +17,5 @@ export default function Home() {
     </div>
   )
 }
+
+// NEXTAUTH_URL=http://localhost:3000
